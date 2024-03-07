@@ -2,9 +2,9 @@
 Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 ##     le lien de chacun avec le thème Crescentia
 Le lien avec Crescentia est qu'il évolutif selon les actions posés avec le matériel.
-    le lien de chacun avec le thème Crescentia
-    Le lien 
+
     l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
+En ce moment, l'installation est situé dans un petit espace avec trois murs, projetés de vagues de lumières et des bouton pour activer des effets.
     le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
 
 De plus, vous devrez :
