@@ -7,6 +7,8 @@ C'est une oeuvre qui vise à relier le temps et l'être humain.
 L'installation se fait dans le grand studio. Elle se fais avec une toile (représentant le cerveau) et une projection sur 3 murs (l'affichage les souvenirs). Plus tu pèses longtemps, plus il va jouer longtemps et clairement, plus tu appuies rapidement, plus ils vont disparaître. Avoir le son de la vidéo mémoire avec un son de fond pour représenter l'émotion véhiculé dans la vidéo. une lumière au-devant de la toile attirera les gens, avec des modèles artistiques proejtés et sur la toile. puis dès qu'un interlocteur s'approchera, la lumière s'éteindra. les modèles artistiques partiront petit à petit.
 ![murs_Rhizomatique](media/Rhizomatique_murs)
 
+##schéma
+rhizomatique_plantation.drawio.png
 
 De plus, vous devrez :
 
