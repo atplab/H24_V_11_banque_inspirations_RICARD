@@ -10,16 +10,17 @@ L'installation se fait dans le grand studio. Elle se fais avec une toile (repré
 ## schéma
 ![plan_rhizomatique](media/rhizomatique_plantation.drawio.png)
 
-De plus, vous devrez :
 
-    identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre projet (voir la grille de cours du programme)
+Œuvres et dispositifs multimédias en exposition, Interactivité ludique et Traitement audiovisuel semblent être des cours incontournables pour la création de cette oeuvre.
 
     présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
 
+
     *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
 
+
     ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
+avant l'expérimentation, je trouve que ce projet est mon 3ème préféré, car il est attirant avec sa façon de fonctionner et de synchroniser les contenus audios, visuels et physiques.
 
-    noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
+Je crois que je vais expérimenter des émotions fortes, car elle va jouer avec les sentiments en nous immersant dans l'expérience.
 
-Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fichiers agréables à lire, dans lesquels on repère facilement l'information
