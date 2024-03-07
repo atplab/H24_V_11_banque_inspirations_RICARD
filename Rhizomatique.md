@@ -8,7 +8,7 @@ L'installation se fait dans le grand studio. Elle se fais avec une toile (repré
 ![murs_Rhizomatique](media/Rhizomatique_murs)
 
 ## schéma
-rhizomatique_plantation.drawio.png
+![plan_rhizomatique](media/rhizomatique_plantation.drawio.png)
 
 De plus, vous devrez :
 
