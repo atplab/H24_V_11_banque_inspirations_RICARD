@@ -1,6 +1,9 @@
-
-    le titre de chacun des projets ainsi que ses créateurs et créatrices
+## **Sonalux**
+Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
+##     le lien de chacun avec le thème Crescentia
+Le lien avec Crescentia est qu'il évolutif selon les actions posés avec le matériel.
     le lien de chacun avec le thème Crescentia
+    Le lien 
     l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
     le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
 
