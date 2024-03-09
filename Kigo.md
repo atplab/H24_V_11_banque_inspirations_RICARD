@@ -1,19 +1,27 @@
+## **Kigo**
+Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
+## le lien de chacun avec le thème Crescentia
+le thème de Crescentia est la croissance, et c'est relié parce que tu dois faire évoluer ton score au fil du temps, au risque de tout perdre et de devoir recommencer de zéro.
 
-    le titre de chacun des projets ainsi que ses créateurs et créatrices
-    le lien de chacun avec le thème Crescentia
-    l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
+## l'installation en cours dans les studios pour chacun des projets 
+En ce moment, l'installation est situé sur un mur, avec une image projeté par un projecteur. Il y a une Kinect pour capter les mouvements et tout ça est relié à un ordinateur, donc modifiable en temps réel.
+![demo](media/kigo_demo.jpg) 
+
+## Schéma
+![schéma](media/scenarimage.kigo1.png)   
     le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
-
 De plus, vous devrez :
 
-    identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre projet (voir la grille de cours du programme)
+
+Œuvres et dispositifs multimédias en exposition, Interactivité ludique et modélisation 3D semblent être des cours incontournables pour la création de cette oeuvre.
 
     présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
 
     *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
 
-    ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
-
+## Ordre de préférence
+Avant l'expérimentation, je trouve que ce projet est mon 1er préféré, car il est attirant par sa façon d'tiliser le matériel, étant simplement de bouger sans rien avoir besoin de manipuler.
     noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
 
-Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fichiers agréables à lire, dans lesquels on repère facilement l'information
+Je crois que je vais expérimenter du plaisir à m'amuser à esquiver les obstacles et obtenir le plus haut score.
+
