@@ -4,7 +4,7 @@ Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaë
 le thème de Crescentia est la croissance, et c'est relié parce qu'en reliant les planètes, ça fait croître des phénomènes galactiques.
 
 ## l'installation en cours dans les studios pour chacun des projets 
-En ce moment, l'installation est situé sur un mur, avec une image projeté par un projecteur. Il y a une Kinect pour capter les mouvements des mains sur la table devant le mur, où est situé des planètes..
+En ce moment, l'installation est situé sur un mur, avec une image projeté par un projecteur. Il y a une Kinect pour capter les mouvements des mains sur la table devant le mur, où est situé des planètes.
 ![demo](media/canevas_cosmique_table_2.jpg) 
 
 ## Schéma
@@ -18,11 +18,12 @@ En ce moment, l'installation est situé sur un mur, avec une image projeté par 
     *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
 
 ## Ordre de préférence
-Avant l'expérimentation, je trouve que ce projet est mon 1er préféré, car il est attirant par sa façon d'utiliser le matériel, étant simplement de bouger sans rien avoir besoin de manipuler.
-    noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
+Avant l'expérimentation, je trouve que ce projet est mon 5ème préféré, car il est intéressant, mais ne suscite pas mon attention plus que ça.
 
 ## Expérience à ressentir
-Je crois que je vais expérimenter du plaisir à m'amuser à esquiver les obstacles et obtenir le plus haut score.
+Je crois que je vais expérimenter de la fascination vis-à-vis des explosions émises par les collisions de planètes. 
+
+.
     le titre de chacun des projets ainsi que ses créateurs et créatrices
     le lien de chacun avec le thème Crescentia
     l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
