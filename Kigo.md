@@ -9,10 +9,8 @@ En ce moment, l'installation est situé sur un mur, avec une image projeté par 
 
 ## Schéma
 ![schéma](media/scenarimagekigo1.png)   
-    le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
-De plus, vous devrez :
 
-
+## 3 cours du programme incontournables pour créer ce genre projet
 Œuvres et dispositifs multimédias en exposition, Interactivité ludique et modélisation 3D semblent être des cours incontournables pour la création de cette oeuvre.
 
     présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
