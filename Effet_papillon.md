@@ -10,16 +10,16 @@ En ce moment, l'installation est dans le petit studio, avec le matériel interac
 non disponible
 ![schéma](media/.png)   
 
-De plus, vous devrez :
 
-    identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre projet (voir la grille de cours du programme)
+## 3 cours du programme incontournables pour créer ce genre projet
+Œuvres et dispositifs multimédias en exposition, Interactivité ludique et modélisation 3D semblent être des cours incontournables pour la création de cette oeuvre.
 
     présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
 
     *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
 
-    ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
+   ## Ordre de préférence
+Avant l'expérimentation, je trouve que ce projet est mon 4er préféré, car il est attirant par sa façon de faire ressentir à quel point la nature est précieuse, et que chaque geste que l'on fait peut entraîner une réaction en chaîne.
 
-    noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
-
-Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fichiers agréables à lire, dans lesquels on repère facilement l'information
+## Expérience à ressentir
+Je crois que je vais expérimenter de la fascination, car le fait de voir que chaque geste posé est le début d'une réaction en chaîne me fascine.
