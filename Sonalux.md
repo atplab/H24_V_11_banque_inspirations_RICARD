@@ -8,7 +8,7 @@ En ce moment, l'installation est situé dans un petit espace avec trois murs, pr
 ![clavier](media/sonalux_clavier.jpg) 
 
 ## Schéma
-![schéma](media/schema_plantation.jpg)   
+![schéma](media/schema_plantation.png)   
 
 De plus, vous devrez :
 
