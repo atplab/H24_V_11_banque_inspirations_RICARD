@@ -5,10 +5,10 @@ le thème de Crescentia est la croissance, et c'est relié parce que tu dois fai
 
 ## l'installation en cours dans les studios pour chacun des projets 
 En ce moment, l'installation est situé sur un mur, avec une image projeté par un projecteur. Il y a une Kinect pour capter les mouvements et tout ça est relié à un ordinateur, donc modifiable en temps réel.
-![demo](media/kigo_demo.jpg) 
+![demo](media/Kigo_demo.jpg) 
 
 ## Schéma
-![schéma](media/scenarimage.kigo1.png)   
+![schéma](media/scenarimagekigo1.png)   
     le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
 De plus, vous devrez :
 
