@@ -20,6 +20,7 @@ L'installation se fait dans le grand studio. Elle se fais avec une toile (repré
 
 
     ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
+## Ordre de préférence
 avant l'expérimentation, je trouve que ce projet est mon 3ème préféré, car il est attirant avec sa façon de fonctionner et de synchroniser les contenus audios, visuels et physiques.
 
 Je crois que je vais expérimenter des émotions fortes, car elle va jouer avec les sentiments en nous immersant dans l'expérience.
