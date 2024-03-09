@@ -10,7 +10,6 @@ En ce moment, l'installation est situé dans un petit espace avec trois murs, pr
 ## Schéma
 ![schéma](media/schema_plantation.png)   
 
-De plus, vous devrez :
 
 ## 3 cours du programme incontournables pour créer ce genre projet
 Œuvres et dispositifs multimédias en exposition, Interactivité ludique et Traitement audiovisuel semblent être des cours incontournables pour la création de cette oeuvre.
