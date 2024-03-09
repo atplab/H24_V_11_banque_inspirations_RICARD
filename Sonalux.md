@@ -3,7 +3,7 @@ Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 ## le lien de chacun avec le thème Crescentia
 Le lien avec Crescentia est qu'il évolutif selon les actions posés avec le matériel.
 
-## l'installation en cours dans les studios pour chacun des projets 
+## l'installation en cours dans les studios
 En ce moment, l'installation est situé dans un petit espace avec trois murs, projetés de vagues de lumières et des bouton pour activer des effets.
 ![clavier](media/sonalux_clavier.jpg) 
 
