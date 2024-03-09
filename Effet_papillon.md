@@ -1,8 +1,14 @@
+## **Effet Papillon**
+Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et Jasmine Lapierre.
+## le lien de chacun avec le thème Crescentia
+Le lien avec Crescentia est que l'environnement évolue comme pour représenter le cycle de la vie sur Terre.
+## l'installation en cours dans les studios
+En ce moment, l'installation est dans le petit studio, avec le matériel interactif placé et les projecteurs prêt à afficher les interactions avec le matériel.
+![arbre](media/effet_papillon_arbre.jpg) 
 
-    le titre de chacun des projets ainsi que ses créateurs et créatrices
-    le lien de chacun avec le thème Crescentia
-    l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
-    le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
+## Schéma
+non disponible
+![schéma](media/.png)   
 
 De plus, vous devrez :
 
