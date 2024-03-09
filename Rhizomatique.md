@@ -1,5 +1,6 @@
 ## **Rhizomatique**
 Maïka Désy, Laurie Houde, Jolyanne Desjardins, Félix Testa
+
 ## le lien de chacun avec le thème Crescentia
 le thème de Crescentia est la croissance, et c'est relié parce que le projet parle de la mémoire et des souvenirs qui arrivent et disparaisse au fil des temps.
 
@@ -23,5 +24,6 @@ L'installation se fait dans le grand studio. Elle se fais avec une toile (repré
 ## Ordre de préférence
 avant l'expérimentation, je trouve que ce projet est mon 3ème préféré, car il est attirant avec sa façon de fonctionner et de synchroniser les contenus audios, visuels et physiques.
 
+## Expérience à ressentir
 Je crois que je vais expérimenter des émotions fortes, car elle va jouer avec les sentiments en nous immersant dans l'expérience.
 
