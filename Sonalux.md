@@ -22,7 +22,7 @@ source :
 ## 3 cours du programme incontournables pour créer ce genre projet
 Avant l'expérimentation, je trouve que ce projet est mon 2ème préféré, car il est attirant par sa liberté et sa créativité proposé lors de l'utilisation du projet.
 
-## Expérience à ressentir
+## Expérience vécue
 Je pense que je vais expérimenter de la satisfaction, car avoir le contrôle sur chaque effets possible avec le son et la vidéo est quelque chose qui donne l'effet d'une certaine liberté.
 
 Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fichiers agréables à lire, dans lesquels on repère facilement l'information
