@@ -7,7 +7,8 @@ Le lien avec Crescentia est qu'il évolutif selon les actions posés avec le mat
 En ce moment, l'installation est situé dans le grand studio dans un petit espace avec trois murs, projetés de vagues de lumières et des bouton pour activer des effets.
 ![clavier](media/sonalux_clavier.jpg) 
 
-## Schéma
+## Schéma de l'installation
+source : 
 ![schéma](media/schema_plantation.png)   
 
 
