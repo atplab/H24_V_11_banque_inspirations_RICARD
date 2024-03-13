@@ -4,7 +4,7 @@ Créateurs : Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 Le lien avec Crescentia est qu'il évolutif selon les actions posés avec le matériel.
 
 ## l'installation en cours dans les studios
-En ce moment, l'installation est situé dans le grand studio dans un petit espace avec trois murs, projetés de vagues de lumières et des bouton pour activer des effets.
+En ce moment, l'installation est situé dans le grand studio dans un petit espace avec trois murs, projetés de vagues de lumières et des bouton pour activer des effets. développer
 ![clavier](media/sonalux_clavier.jpg) 
 
 ## Schéma de l'installation
