@@ -9,6 +9,7 @@ L'installation se fait dans le grand studio. Elle se fais avec une toile (repré
 ![murs_Rhizomatique](media/Rhizomatique_murs.png)
 
 ## Schéma
+source : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
 ![plan_rhizomatique](media/rhizomatique_plantation.drawio.png)
 
 ## 3 cours du programme incontournables pour créer ce genre projet
@@ -27,3 +28,4 @@ avant l'expérimentation, je trouve que ce projet est mon 3ème préféré, car 
 ## Expérience à ressentir
 Je crois que je vais expérimenter des émotions fortes, car elle va jouer avec les sentiments en nous immersant dans l'expérience.
 
+source : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
