@@ -4,11 +4,11 @@ Créateurs : Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 Le lien avec Crescentia est qu'il évolutif selon les actions posés avec le matériel.
 
 ## l'installation en cours dans les studios
-En ce moment, l'installation est situé dans le grand studio dans un petit espace avec trois murs, projetés de vagues de lumières et des bouton pour crontrôler ces vagues de lumières et contrôler le son. développer
+En ce moment, l'installation est situé dans le grand studio dans un petit espace avec trois murs, projetés de vagues de lumières et des bouton pour crontrôler ces vagues de lumières et contrôler le son. En appuyant sur un bouton, ça peut déclencher une action tel que ralentir la vidéo et le son, rajouter du son ou rajouter des particules dans la vidéo. développer
 ![clavier](media/sonalux_clavier.jpg) ajouter photo
 
 ## Schéma de l'installation
-source : 
+source : https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
 ![schéma](media/schema_plantation.png)   
 
 
@@ -25,4 +25,4 @@ Avant l'expérimentation, je trouve que ce projet est mon 2ème préféré, car 
 ## Expérience vécue
 Je pense que je vais expérimenter de la satisfaction, car avoir le contrôle sur chaque effets possible avec le son et la vidéo est quelque chose qui donne l'effet d'une certaine liberté. développer
 
-Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fichiers agréables à lire, dans lesquels on repère facilement l'information
+sources d'information : https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
