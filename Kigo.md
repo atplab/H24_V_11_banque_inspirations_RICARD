@@ -4,7 +4,7 @@ Créateurs : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas 
 le thème de Crescentia est la croissance, et c'est relié parce que tu dois faire évoluer ton score au fil du temps, au risque de tout perdre et de devoir recommencer de zéro.
 
 ## l'installation en cours dans les studios pour chacun des projets 
-En ce moment, l'installation est situé sur un mur, avec une image projeté par un projecteur. Il y a une Kinect pour capter les mouvements et tout ça est relié à un ordinateur, donc modifiable en temps réel.
+En ce moment, l'installation est situé sur un mur, avec une image projeté par un projecteur. Il y a une Kinect pour capter les mouvements et tout ça est relié à un ordinateur, donc modifiable en temps réel. développer
 
 source : Emmanuel Ricard
 ![demo](media/Kigo_demo.jpg) 
