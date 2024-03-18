@@ -5,7 +5,7 @@ le thème de Crescentia est la croissance, et c'est relié parce qu'en reliant l
 
 ## l'installation en cours dans les studios pour chacun des projets 
 En ce moment, l'installation est situé sur un mur, avec une image projeté par un projecteur. Il y a une Kinect pour capter les mouvements des mains sur la table devant le mur, où est situé des planètes.
-![demo](media/canevas_cosmique_table_2.jpg) 
+![demo](media/canevas_cosmique_table.jpg) 
 
 ## Schéma
 ![schéma](media/sketchTable_canevas_cosmique.png)   
