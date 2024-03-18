@@ -14,11 +14,7 @@ Source : Emmanuel Ricard
 Source : https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
 ![schéma](media/schema_plantation.png)   
 
-
-## 3 cours du programme incontournables pour créer ce genre projet
-Œuvres et dispositifs multimédias en exposition, Interactivité ludique et Traitement audiovisuel semblent être des cours incontournables pour la création de cette oeuvre.
-
-## 3 cours du programme incontournables pour créer ce genre projet
+## Ordre de préférence
 Avant l'expérimentation, je trouve que ce projet est mon 2ème préféré, car il est attirant par sa liberté et sa créativité proposé lors de l'utilisation du projet.
 
 ## Expérience vécue
