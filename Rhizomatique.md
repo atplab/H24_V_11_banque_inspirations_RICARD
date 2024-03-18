@@ -11,20 +11,13 @@ Source : Emmanuel Ricard
 ![demo_Rhizomatique](media/Rhizomatique_demo.jpg)
 ![demo_Rhizomatique](media/Rhizomatique_interieur.jpg)
 
-## Schéma
-source : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
+## Schéma de l'installation
+Source : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
 ![plan_rhizomatique](media/rhizomatique_plantation.drawio.png)
 
 ## 3 cours du programme incontournables pour créer ce genre projet
 Œuvres et dispositifs multimédias en exposition, Interactivité ludique et Traitement audiovisuel semblent être des cours incontournables pour la création de cette oeuvre.
 
-    présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
-
-
-    *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
-
-
-    ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
 ## Ordre de préférence
 avant l'expérimentation, je trouve que ce projet est mon 3ème préféré, car il est attirant avec sa façon de fonctionner et de synchroniser les contenus audios, visuels et physiques.
 
