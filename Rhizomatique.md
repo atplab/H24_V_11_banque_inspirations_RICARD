@@ -1,7 +1,7 @@
 ## **Rhizomatique**
 Créateurs : Maïka Désy, Laurie Houde, Jolyanne Desjardins, Félix Testa
 
-## le lien de chacun avec le thème Crescentia
+## Le lien de chacun avec le thème Crescentia
 le thème de Crescentia est la croissance, et c'est relié parce que le projet parle de la mémoire et des souvenirs qui arrivent et disparaisse au fil des temps.
 
 ## l'installation en cours dans les studios
