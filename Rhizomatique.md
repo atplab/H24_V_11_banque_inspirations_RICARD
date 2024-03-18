@@ -21,7 +21,7 @@ Source : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preprodu
 ## Ordre de préférence
 avant l'expérimentation, je trouve que ce projet est mon 3ème préféré, car il est attirant avec sa façon de fonctionner et de synchroniser les contenus audios, visuels et physiques.
 
-## Expérience à ressentir
+## Expérience vécue
 Je crois que je vais expérimenter des émotions fortes, car elle va jouer avec les sentiments en nous immersant dans l'expérience.
 
 source d'informations : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
