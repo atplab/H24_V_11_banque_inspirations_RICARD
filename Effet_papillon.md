@@ -7,8 +7,8 @@ En ce moment, l'installation est dans le petit studio, avec le matériel interac
 ![arbre](media/effet_papillon_arbre.jpg) 
 
 ## Schéma
-non disponible
-![schéma](media/.png)   
+source : https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f123d528beb9cf9ef03/docs/preproduction/medias/stl_structure.stl
+![schéma](media/structure_effet_papillon.png)   
 
 
 ## 3 cours du programme incontournables pour créer ce genre projet
