@@ -11,7 +11,7 @@ Source : Emmanuel Ricard
 ![ecran](media/canevas_cosmique_ecran.jpg) 
 
 ## Schéma
-source : https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
+Source : https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
 ![schéma](media/sketchTable_canevas_cosmique.png)   
 
 ## 3 cours du programme incontournables pour créer ce genre projet
@@ -23,4 +23,4 @@ Avant l'expérimentation, je trouve que ce projet est mon 5ème préféré, car 
 ## Expérience à ressentir
 Je crois que je vais expérimenter de la fascination vis-à-vis des explosions émises par les collisions de planètes. 
 
-Sources d'information : https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
+Source d'informations : https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
