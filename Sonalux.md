@@ -5,7 +5,7 @@ Le lien avec Crescentia est qu'il évolutif selon les actions posés avec le mat
 
 ## l'installation en cours dans les studios
 En ce moment, l'installation est situé dans le grand studio dans un petit espace avec trois murs, projetés de vagues de lumières et des bouton pour crontrôler ces vagues de lumières et contrôler le son. En appuyant sur un bouton, ça peut déclencher une action tel que ralentir la vidéo et le son, rajouter du son ou rajouter des particules dans la vidéo. développer
-![clavier](media/sonalux_clavier.jpg) ajouter photo
+![clavier](media/sonalux_clavier.jpg)![claavier](media/sonalux_clavier.jpg){:height="700px" width="400px"} ajouter photo
 
 ## Schéma de l'installation
 source : https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
