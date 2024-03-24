@@ -1,4 +1,5 @@
 ## **Spectacle multimédia Générations MTL**
+source : Frédérique Ménard Aubin
 Affiche de l'exposition (site internet voir et source )
 
 ## Lieu de mise en exposition
