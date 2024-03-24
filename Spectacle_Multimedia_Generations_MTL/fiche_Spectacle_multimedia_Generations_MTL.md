@@ -2,10 +2,11 @@
 Affiche de l'exposition (site internet voir et source )
 
 ## Lieu de mise en exposition
+350 place royale Montréal
 Vous devant l'entrée de l'édifice
 
 ## Type d'exposition : permanente, intérieure
-
+L'exposition est permanente et se retrouve à l'intérieur de l'édifice.
 ## Date de votre visite
 
 ## Titre de l'oeuvre ou du dispositif
