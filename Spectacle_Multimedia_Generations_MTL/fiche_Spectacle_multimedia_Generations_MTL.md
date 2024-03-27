@@ -1,9 +1,11 @@
 ## **Spectacle multimédia Générations MTL**
+date de visite : 23 février 2024
 source : Frédérique Ménard Aubin
 Affiche de l'exposition (site internet voir et source )
 
 ## Lieu de mise en exposition
 350 place royale Montréal
+
 ![batisse](media/batisse_devant.jpg)
 
 ## Type d'exposition : permanente, intérieure
