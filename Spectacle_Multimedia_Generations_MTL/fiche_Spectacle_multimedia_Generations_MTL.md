@@ -21,7 +21,7 @@ Pointe-à-Callière
 2024?
 
 ## Description de l'oeuvre ou du dispositif
-La disposition parle de l'histoire du Québec depuis 
+La disposition parle de l'histoire du Québec et de ses origines.2
 source : https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
 
 ## Type d'installation (contemplative, immersive, interactive)
