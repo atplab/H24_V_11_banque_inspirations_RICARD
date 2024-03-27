@@ -13,7 +13,7 @@ Affiche de l'exposition (site internet voir et source )
 L'exposition est permanente et se retrouve à l'intérieur de l'édifice.
 
 ## Titre de l'oeuvre ou du dispositif
-Vue d'ensemble de l'oeuvre ou du dispositif
+Spectacle multimédia Générations MTL
 
 ## Nom de l'artiste ou de la firme
 Pointe-à-Callière
@@ -21,8 +21,8 @@ Pointe-à-Callière
 2024?
 
 ## Description de l'oeuvre ou du dispositif
-Cartel + diverses vues
-À composer ou reprendre la description offerte sur le site de l'artiste ou sur le cartel en indiquant bien sa source
+La disposition parle de l'histoire du Québec depuis 
+source : https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
 
 ## Type d'installation (contemplative, immersive, interactive)
 Vue parlante - vidéo ET photo qui nous permettent de bien comprendre le type d'installation
