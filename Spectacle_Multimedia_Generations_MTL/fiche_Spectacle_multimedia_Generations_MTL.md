@@ -1,5 +1,6 @@
 ## **Spectacle multimédia Générations MTL**
 date de visite : 23 février 2024
+
 source : Frédérique Ménard Aubin
 Affiche de l'exposition (site internet voir et source )
 
@@ -10,7 +11,6 @@ Affiche de l'exposition (site internet voir et source )
 
 ## Type d'exposition : permanente, intérieure
 L'exposition est permanente et se retrouve à l'intérieur de l'édifice.
-## Date de votre visite
 
 ## Titre de l'oeuvre ou du dispositif
 Vue d'ensemble de l'oeuvre ou du dispositif
