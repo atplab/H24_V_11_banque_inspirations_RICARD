@@ -8,7 +8,7 @@ L'installation est situé sur un mur, avec une image projeté par un projecteur.
 
 Source : Emmanuel Ricard
 ![table](media/canevas_cosmique_table.jpg)
-![ecran](CRESCENTIA/media/canevas_cosmique_ecran.jpg) 
+![ecran](media/canevas_cosmique_ecran.jpg) 
 
 ## Schéma
 Source : https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
