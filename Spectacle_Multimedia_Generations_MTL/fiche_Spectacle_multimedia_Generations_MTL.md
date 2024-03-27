@@ -15,9 +15,10 @@ L'exposition est permanente et se retrouve à l'intérieur de l'édifice.
 ## Titre de l'oeuvre ou du dispositif
 Vue d'ensemble de l'oeuvre ou du dispositif
 
-## Nom de l'artiste ou de la firme (Pour le nom de la firme, voir le panneau de crédits de l'exposition)
-
+## Nom de l'artiste ou de la firme
+Pointe-à-Callière
 ## Année de réalisation
+2024?
 
 ## Description de l'oeuvre ou du dispositif
 Cartel + diverses vues
