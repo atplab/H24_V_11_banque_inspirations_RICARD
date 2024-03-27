@@ -4,7 +4,7 @@ Affiche de l'exposition (site internet voir et source )
 
 ## Lieu de mise en exposition
 350 place royale Montréal
-![batisse](Spectacle_Multimedia_Generations_MTL/media/batisse_devant.jpg)
+![batisse](media/batisse_devant.jpg)
 
 ## Type d'exposition : permanente, intérieure
 L'exposition est permanente et se retrouve à l'intérieur de l'édifice.
