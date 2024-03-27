@@ -15,9 +15,6 @@ Source : Emmanuel Ricard
 Source : https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
 ![schéma](media/sketchTable_canevas_cosmique.png)   
 
-## 3 cours du programme incontournables pour créer ce genre projet
-Œuvres et dispositifs multimédias en exposition, Interactivité ludique et animation 2D semblent être des cours incontournables pour la création de cette oeuvre.
-
 ## Ordre de préférence
 Avant l'expérimentation, je trouve que ce projet est mon 5ème préféré, car il est intéressant, mais ne suscite pas mon attention plus que ça.
 
