@@ -13,7 +13,7 @@ Source : Emmanuel Ricard
 
 ## Schéma
 Source : https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
-![schéma](CRESCENTIA/media/sketchTable_canevas_cosmique.png)   
+![schéma](media/sketchTable_canevas_cosmique.png)   
 
 ## 3 cours du programme incontournables pour créer ce genre projet
 Œuvres et dispositifs multimédias en exposition, Interactivité ludique et animation 2D semblent être des cours incontournables pour la création de cette oeuvre.
