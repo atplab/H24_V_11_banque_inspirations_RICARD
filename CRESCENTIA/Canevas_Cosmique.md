@@ -6,6 +6,7 @@ Le thème de Crescentia est la croissance, et c'est relié parce qu'en reliant l
 ## L'installation dans les studios
 L'installation est situé sur un mur, avec une image projeté par un projecteur. Il y a une Kinect pour capter les mouvements des mains sur une table située devant le mur, où est situé des planètes de forme 3D. Il y a un projecteur avec une kinect en dessous de la table pour projeter les images et capter les mouvements émis par les interlocuteur.
 
+légende : la première photo démontre la table, et la deuxième l'écran de projection au dessus de la table
 Source : Emmanuel Ricard
 ![table](media/canevas_cosmique_table.jpg)
 ![ecran](media/canevas_cosmique_ecran.jpg) 
