@@ -1,3 +1,5 @@
+faire comme si c'était sortie personnelle
+
 ## **Rhizomatique**
 Créateurs : Maïka Désy, Laurie Houde, Jolyanne Desjardins, Félix Testa
 
