@@ -1,7 +1,7 @@
 ## **Spectacle multimédia Générations MTL**
 date de visite : 23 février 2024
 
-source : Frédérique Ménard Aubin, https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
+Source : Frédérique Ménard Aubin, https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
 ![batisse](media/generationsmtl_affiche.jpg)
 
 
@@ -23,20 +23,21 @@ Pointe-à-Callière est la firme qui a développé ce projet.
 
 ## Description de l'oeuvre ou du dispositif
 La disposition parle de l'histoire du Québec et de ses origines.2
-source : https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
+Source : https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
 
 ## Type d'installation
 Le type d'installation est plutôt contemplative, car l'interlocuteur est assis sur une chaise et regarde de multiples écrans qui sont face à lui. Il y a aussi un peu d'immersion, car tu dois porter des écouteurs qui jouent du son tel que de la voix et de la musique pour t'immerser durant l'exposition.
-source : Emmanuel Ricard
+Sources : Emmanuel Ricard
 ![vue](media/vue-assis.jpg)
 ![démonstration_exposition](media/demonstration_exposition.mp4)
 
 ## Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
 Le scénario parle de l'histoire du Québec depuis sa création jusqu'à aujourd'hui. Elle met en valeur tout ce que le Québec a traversé et toutes les créations que cette belle province a apporté. La diffusion ce fait sur plusieurs écrans, séparés de Néons, de projecteurs visant sur le sol pour projeter des éléments et d'écouteurs pour avoir une immersion plus profonde de l'oeuvre. Il y avait aussi des vitres avec des personnages projetés de temps en temps dessus.
+Source : Emmanuel Ricard
 ![Démonstration_fonctions](media/demonstrations_fonctions.jpg)
-Vue parlante - vidéo ou photo qui nous permet de bien comprendre la fonction du dispositif multimédia
 
 ## Mise en espace
+
 Vue d'ensemble de la pièce + croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec dimensions)
 Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?
 
