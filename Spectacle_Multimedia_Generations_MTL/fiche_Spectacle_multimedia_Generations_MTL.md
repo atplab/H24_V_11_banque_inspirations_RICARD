@@ -60,23 +60,24 @@ Source : Emmanuel Ricard
 ![Exemples_techniques](media/techniques.jpg)
 
 ## Éléments nécessaires à la mise en exposition
-Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)
-Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre ou le dispositif soit exposé (bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs...)
+Pour permettre l'exposition de cette oeuvre, il faut avoir les équipements suivant : des projecteurs pour projeter les images, des lumières pour projeter de la lumière, des néons pour faire de la lumière, des sièges pour s'asseoir, des écouteurs pour entendre le son, de la vitre et des écrans pour recevoir la projection et un très grand espace divisé en plusieurs partie (une plus haute, et une plus basse).
+
 
 ## Expérience vécue
-Posture du visiteur ou gestes de l'interacteur 🎥 possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou du dispositif ou l'interactivité avec l'oeuvre ou le dispositif
-Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment réagit l'oeuvre ou le dispositif (si interactivité)? Plus personnellement, description de l'expérience que l'oeuvre ou le dispositif vous a fait vivre.
+L'oeuvre ne demande aucun effort physique, elle demande seulement à s'asseoir sur un siège, mettre les écouteurs et regarder l'exposition pour expérimenter un voyage au fil des années et revivre les événements marquant du Québec, plus précisément de Montréal. Elle procure de l'émerveillement et de la fierté vis-à-vis tout ce que Montréal a pu faire et ce qu'il est devenu aujourd'hui.
+
+Source : Emmanuel Ricard
+
+![émotions](media/emotions.mp4)
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
-Éléments pertinents
-Texte à rédiger qui présente un ou des aspects inspirants, avec justifications détaillées (pourquoi est-ce que cela vous a plus/ vous a donné des idées ?
+Beaucoup d'éléments m'ont plus, tel que les sièges étaient disposés plus haut que la partie du sol ayant de la projection, ce qui fait un effet de projection plus agréable à regarder. Quelque chose qui m'a donné des idées est le fait qu'à la place de mettre les personnages au même stade de projection que les décors, Ils ont mis des vitres où les projecteurs projettent la vidéo des personnages sans fond, ce qui créé un sentiment de réel et de rapprochement entre l'interlocuteur et l'exposition. Ça m'a beaucoup plu, car ça l'a rajouté à mon immersion et à la complicité que je ressentais avec les personnages, tout en permettant de bien admirer le paysage sans avoir de fonds encombrants derrière les personnages. 
+
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Éléments pertinents
- 	Texte à rédiger qui présente un ou des aspects que vous ne retiendriez pas ou feriez autrement, avec justifications détaillées (pourquoi? comment?)
+Je ferais des moments plus courts pour les vidéos de fond à certain moments, car parfois Il ne se passait pas grand chose donc ça peut faire perdre l'attention des interlocuteurs. Si j'avais pu le faire autrement, j'aurais laissé des fonds avec des passages moins intéressant sur certains écrans, mais j'aurais aussi mis des sujets plus intéressant avec pour capter l'attention tout en émerveillant les interlocuteurs.
 
-
-  Références
-  hyperliens vers les sites consultés
-
-source : https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
+Sources :
+Emmanuel Ricard
+Frédérique Ménard Aubin
+https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
