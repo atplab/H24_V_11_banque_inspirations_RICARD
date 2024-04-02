@@ -32,7 +32,8 @@ source : Emmanuel Ricard
 ![démonstration_exposition](media/demonstration_exposition.mp4)
 
 ## Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
-Le scénario parle de l'histoire du Québec depuis sa création jusqu'à aujourd'hui. Elle met en valeur tout ce que le Québec a traversé et toutes les créations que cette belle province a apporté. La diffusion ce fait sur plusieurs écrans, séparés de Néons, de projecteurs visant sur le sol pour projeter des éléments et d'écouteurs pour avoir une immersion plus profonde de l'oeuvre.
+Le scénario parle de l'histoire du Québec depuis sa création jusqu'à aujourd'hui. Elle met en valeur tout ce que le Québec a traversé et toutes les créations que cette belle province a apporté. La diffusion ce fait sur plusieurs écrans, séparés de Néons, de projecteurs visant sur le sol pour projeter des éléments et d'écouteurs pour avoir une immersion plus profonde de l'oeuvre. Il y avait aussi des vitres avec des personnages projetés de temps en temps dessus.
+![Démonstration_fonctions](media/demonstrations_fonctions.jpg)
 Vue parlante - vidéo ou photo qui nous permet de bien comprendre la fonction du dispositif multimédia
 
 ## Mise en espace
