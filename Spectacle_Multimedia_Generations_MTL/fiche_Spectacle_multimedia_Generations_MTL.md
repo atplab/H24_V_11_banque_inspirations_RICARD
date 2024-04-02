@@ -2,7 +2,7 @@
 date de visite : 23 février 2024
 
 Source : Frédérique Ménard Aubin, https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
-![affihe](media/generationsmtl_affiche.jpg)
+![affiche](media/generationsmtl_affiche.jpg)
 
 
 ## Lieu de mise en exposition
