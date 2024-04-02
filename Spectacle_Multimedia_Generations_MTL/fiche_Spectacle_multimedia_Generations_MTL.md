@@ -10,7 +10,7 @@ source : Frédérique Ménard Aubin, https://pacmusee.qc.ca/fr/expositions/detai
 
 ![batisse](media/batisse_devant.jpg)
 
-## Type d'exposition : permanente, intérieure
+## Type d'exposition
 L'exposition est permanente et se retrouve à l'intérieur de l'édifice de Pointe-à-Callière.
 
 ## Titre de l'oeuvre ou du dispositif
@@ -25,14 +25,14 @@ Pointe-à-Callière est la firme qui a développé ce projet.
 La disposition parle de l'histoire du Québec et de ses origines.2
 source : https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
 
-## Type d'installation (contemplative, immersive, interactive)
+## Type d'installation
 Le type d'installation est plutôt contemplative, car l'interlocuteur est assis sur une chaise et regarde de multiples écrans qui sont face à lui. Il y a aussi un peu d'immersion, car tu dois porter des écouteurs qui jouent du son tel que de la voix et de la musique pour t'immerser durant l'exposition.
 source : Emmanuel Ricard
 ![vue](media/vue-assis.jpg)
 ![démonstration_exposition](media/demonstration_exposition.mp4)
-Vue parlante - vidéo ET photo qui nous permettent de bien comprendre le type d'installation
 
 ## Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
+Le scénario parle de l'histoire du Québec depuis sa création jusqu'à aujourd'hui. Elle met en valeur tout ce que le Québec a traversé et toutes les créations que cette belle province a apporté. La diffusion ce fait sur plusieurs écrans, séparés de Néons, de projecteurs visant sur le sol pour projeter des éléments et d'écouteurs pour avoir une immersion plus profonde de l'oeuvre.
 Vue parlante - vidéo ou photo qui nous permet de bien comprendre la fonction du dispositif multimédia
 
 ## Mise en espace
