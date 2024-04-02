@@ -9,6 +9,7 @@ Source : Frédérique Ménard Aubin, https://pacmusee.qc.ca/fr/expositions/detai
 350 place royale Montréal
 
 Source : Emmanuel Ricard
+
 ![Bâtisse](media/batisse_devant.jpg)
 
 ## Type d'exposition
