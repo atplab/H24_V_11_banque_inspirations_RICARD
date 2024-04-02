@@ -39,6 +39,7 @@ Source : Emmanuel Ricard
 ## Mise en espace
 La partie visuelle prend la largeur d'un grand mur complet et de la moitié des deux murs sur les côtés. Elle prend aussi une partie du plancher. La partie avec les chaises pour que les visiteurs regarde est derrière, avec les écouteurs posés sur des socles entre les sièges. au dessus de cette partie, il y a des projecteurs pour projeter les images sur les vitres et au sol. Sur le mur de droite est située la porte pour rentrer dans la pièce.
 Source : Emmanuel Ricard
+
 ![Projecteurs_et_sièges](media/sieges_et_projecteurs.jpg)
 
 ## Composantes et techniques
