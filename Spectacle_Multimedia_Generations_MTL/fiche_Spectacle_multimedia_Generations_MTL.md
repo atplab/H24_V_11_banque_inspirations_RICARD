@@ -11,13 +11,13 @@ source : Frédérique Ménard Aubin, https://pacmusee.qc.ca/fr/expositions/detai
 ![batisse](media/batisse_devant.jpg)
 
 ## Type d'exposition : permanente, intérieure
-L'exposition est permanente et se retrouve à l'intérieur de l'édifice.
+L'exposition est permanente et se retrouve à l'intérieur de l'édifice de Pointe-à-Callière.
 
 ## Titre de l'oeuvre ou du dispositif
 Spectacle multimédia Générations MTL
 
 ## Nom de l'artiste ou de la firme
-Pointe-à-Callière
+Pointe-à-Callière est la firme qui a développé ce projet.
 ## Année de réalisation
 2024?
 
@@ -26,6 +26,7 @@ La disposition parle de l'histoire du Québec et de ses origines.2
 source : https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
 
 ## Type d'installation (contemplative, immersive, interactive)
+Le type d'installation est plutôt contemplative, car l'interlocuteur est assis sur une chaise et regarde de multiples écrans qui sont face à lui. Il y a aussi un peu d'immersion, car tu dois porter des écouteurs qui jouent du son tel que de la voix et de la musique pour t'immerser durant l'exposition.
 Vue parlante - vidéo ET photo qui nous permettent de bien comprendre le type d'installation
 
 ## Fonction du dispositif multimédia (scénographie, mise en valeur, mise en contexte, support pédagogique, diffusion du patrimoine immatériel)
