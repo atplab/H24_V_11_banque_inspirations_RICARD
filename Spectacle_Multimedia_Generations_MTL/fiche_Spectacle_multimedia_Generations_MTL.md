@@ -77,6 +77,8 @@ Beaucoup d'éléments m'ont plus, tel que les sièges étaient disposés plus ha
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 Je ferais des moments plus courts pour les vidéos de fond à certain moments, car parfois Il ne se passait pas grand chose donc ça peut faire perdre l'attention des interlocuteurs. Si j'avais pu le faire autrement, j'aurais laissé des fonds avec des passages moins intéressant sur certains écrans, mais j'aurais aussi mis des sujets plus intéressant avec pour capter l'attention tout en émerveillant les interlocuteurs.
 
+
+
 Sources :
 
 Emmanuel Ricard
