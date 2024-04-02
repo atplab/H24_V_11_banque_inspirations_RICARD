@@ -37,9 +37,8 @@ Source : Emmanuel Ricard
 ![Démonstration_fonctions](media/demonstrations_fonctions.jpg)
 
 ## Mise en espace
+La partie visuelle prend la largeur d'un grand mur complet et de la moitié des deux murs sur les côtés. Elle prend aussi une partie du plancher. La partie avec les chaises pour que les visiteurs regarde est derrière, avec les écouteurs posés sur des socles entre les sièges. au dessus de cette partie, il y a des projecteurs pour projeter les images sur les vitres et au sol. Sur le mur de droite est située la porte pour rentrer dans la pièce.
 
-Vue d'ensemble de la pièce + croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec dimensions)
-Texte qui permet de comprendre comment l'oeuvre ou le dispositif est mis en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-ce disposé... ?
 
 ## Composantes et techniques
 Parties composantes de l'oeuvre ou du dispositif (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires)
