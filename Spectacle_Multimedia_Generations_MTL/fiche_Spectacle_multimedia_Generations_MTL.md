@@ -22,7 +22,7 @@ Pointe-à-Callière est la firme qui a développé ce projet.
 2024?
 
 ## Description de l'oeuvre ou du dispositif
-La disposition parle de l'histoire du Québec et de ses origines.2
+La disposition parle de l'histoire du Québec et de ses origines. Elle est comporté de plusieurs écrans, d'écouteurs, de projecteurs et de néons. L'oeuvre dûre environs 18 minutes
 Source : https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
 
 ## Type d'installation
