@@ -3,7 +3,7 @@ date de visite : 23 février 2024
 
 source : Frédérique Ménard Aubin, https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
 ![batisse](Spectacle_Multimedia_Generations_MTL/media/generationsmtl_affiche.jpg)
-Affiche de l'exposition (site internet voir et source )
+
 
 ## Lieu de mise en exposition
 350 place royale Montréal
