@@ -33,7 +33,7 @@ Source : https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-gener
 ## Type d'installation
 Le type d'installation est plutôt contemplative, car l'interlocuteur est assis sur une chaise et regarde de multiples écrans qui sont face à lui. Il y a aussi un peu d'immersion, car tu dois porter des écouteurs qui jouent du son tel que de la voix et de la musique pour t'immerser durant l'exposition.
 
-Sources : Emmanuel Ricard
+Source : Emmanuel Ricard
 
 ![Vue](media/vue-assis.jpg)
 ![Démonstration_exposition](media/demonstration_exposition.mp4)
