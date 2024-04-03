@@ -1,8 +1,12 @@
 faire comme si c'était sortie personnelle
 
 ## **Rhizomatique**
-Créateurs : Maïka Désy, Laurie Houde, Jolyanne Desjardins, Félix Testa
+Une oeuvre faite à partir de l'exposition Crescentia. Créateurs : Maïka Désy, Laurie Houde, Jolyanne Desjardins, Félix Testa
 
+## Lieu de l'exposition
+Collège Montmorency, Laval
+dans le local/studio C-1712
+l'exposition est temporaire, car elle n'a durée publiquement qu'une semaine.
 ## Le lien de chacun avec le thème Crescentia
 Le thème de Crescentia est la croissance, et c'est relié parce que le projet parle de la mémoire et des souvenirs qui arrivent et disparaisse au fil des temps.
 
