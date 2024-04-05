@@ -12,7 +12,7 @@ l'exposition était temporaire, car elle n'a durée publiquement qu'une semaine.
 Le thème de Crescentia est la croissance, et c'est relié parce que le projet parle de la mémoire et des souvenirs qui arrivent et disparaisse au fil des temps.
 
 ## Description de l'oeuvre
-Rhizomatique est une oeuvre interactive ayant pour but simuler une vue des souvenirs du cerveau d'une personne en appuyant sur un semi-tapis. Les souvenirs s'affichent à l'aide de projecteurs sur un mur,
+Rhizomatique est une oeuvre interactive ayant pour but simuler une vue des souvenirs du cerveau d'une personne en appuyant sur un semi-tapis. Les souvenirs s'affichent à l'aide de projecteurs sur un mur, sois en face, à gauche ou à droite, selon où la main de l'interlocuteur se situe.
 composer ou reprendre la description offerte sur le
 site de l'artiste ou sur le cartel en indiquant bien sa source
 
