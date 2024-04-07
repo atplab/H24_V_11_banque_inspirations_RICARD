@@ -16,10 +16,6 @@ source : https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.ht
 ## 3 cours du programme incontournables pour créer ce genre projet
 Œuvres et dispositifs multimédias en exposition, Interactivité ludique et modélisation 3D semblent être des cours incontournables pour la création de cette oeuvre.
 
-    présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
-
-    *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
-
 ## Ordre de préférence
 Avant l'expérimentation, je trouve que ce projet est mon 1er préféré, car il est attirant par sa façon d'utiliser le matériel, étant simplement de bouger sans rien avoir besoin de manipuler.
 
