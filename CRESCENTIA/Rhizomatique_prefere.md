@@ -38,6 +38,8 @@ Les composantes et techniques utilisées pour permettre ce type d'installation e
 Source : Emmanuel Ricard
 ![demo_Rhizomatique](media/Rhizomatique_interieur.jpg)
 
+## Éléments nécessaires à la mise en exposition
+L'équipe de Crescentia derrière le projet a dû offrir un grand espace composé de 3 murs qui 
 
 ## Schéma de l'installation
 Source : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
