@@ -16,6 +16,13 @@ Rhizomatique est une oeuvre interactive ayant pour but simuler une vue des souve
 
 source : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
+## Type d'installation
+L'installation est de type immersive, car elle t'immerse dans les pensées d'une personne inconnu, en jouant avec du son et la vue d'une vidéo de fond qui joue. Elle est aussi interactive, car une fois après avoir interagis avec la toile prévu à cet effet, la vue vidéo change pour des vidéos de souvenirs, en face, à gauche ou à droite, selon où l'interlocuteur a appuyé sur la toile. le son change aussi pour le son de la vidéo qui est en train de jouer, ce qui, tout mis bout à bout, renforce encore plus l'immersion apportée.
+
+## Fonction du dispositif multimédia
+
+
+
 ## Mise en espace
 L'installation se fait dans le grand studio. Elle se fais avec une toile (représentant le cerveau) et une projection sur 3 grand murs (l'affichage les souvenirs). Plus tu pèses longtemps, plus il va jouer longtemps et clairement, plus tu appuies rapidement, plus ils vont disparaître. Avoir le son de la vidéo mémoire avec un son de fond pour représenter l'émotion véhiculé dans la vidéo. une lumière au-devant de la toile attirera les gens, avec des modèles artistiques proejtés et sur la toile. puis dès qu'un interlocteur s'approchera, la lumière s'éteindra. les modèles artistiques partiront petit à petit.
 
