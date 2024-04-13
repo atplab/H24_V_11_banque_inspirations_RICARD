@@ -1,6 +1,9 @@
-1faire comme si c'était sortie personnelle
 
 ## **Rhizomatique**
+
+Source : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
+![rhizomatique_bannière](media/rhizomatique_banniere.jpg)
+
 Une oeuvre faite à partir de l'exposition Crescentia. Créateurs : Maïka Désy, Laurie Houde, Jolyanne Desjardins, Félix Testa.
 
 réalisée en 2024, visité le 20 mars 2024
@@ -25,8 +28,19 @@ Le scénario parle de l'histoire d'une personne qui revois des souvenirs d'une p
 ## Mise en espace
 L'installation se fait dans le grand studio. Elle se fais avec une toile (représentant le cerveau) et une projection sur 3 grand murs (l'affichage les souvenirs). Plus tu pèses longtemps, plus il va jouer longtemps et clairement, plus tu appuies rapidement, plus ils vont disparaître. Avoir le son de la vidéo mémoire avec un son de fond pour représenter l'émotion véhiculé dans la vidéo. une lumière au-devant de la toile attirera les gens, avec des modèles artistiques proejtés et sur la toile. puis dès qu'un interlocteur s'approchera, la lumière s'éteindra. les modèles artistiques partiront petit à petit.
 
+
+## Composantes et techniques
+Les composantes et techniques utilisées pour permettre ce type d'installation est la Kinect, qui permet de capter les mouvements émis par l'allocuteur sur une toile montée sur des bouts de bois et de transmettre les données à un ordinateur. Il y a aussi comme nécéssité des projecteurs, qui peuvent projeter l'image sur les 3 murs, et un projecteur en dessous de la toile pour projeter la vidéo sur celle-ci. Il y a aussi besoin de deux haut-parleurs permettant de distribuer le son.
+
 Source : Emmanuel Ricard
 ![demo_Rhizomatique](media/Rhizomatique_demo.jpg)
+
+Liste des composantes et techniques utilisées (ce que
+l'artiste ou la firme a fait - pensez à ce qui doit voyager
+dans une caisse de transport si ceci est exposé
+outremer)
+
+Source : Emmanuel Ricard
 ![demo_Rhizomatique](media/Rhizomatique_interieur.jpg)
 
 ## Schéma de l'installation
