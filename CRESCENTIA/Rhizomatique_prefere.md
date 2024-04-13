@@ -12,9 +12,9 @@ l'exposition était temporaire, car elle n'a durée publiquement qu'une semaine.
 Le thème de Crescentia est la croissance, et c'est relié parce que le projet parle de la mémoire et des souvenirs qui arrivent et disparaisse au fil des temps.
 
 ## Description de l'oeuvre
-Rhizomatique est une oeuvre interactive ayant pour but simuler une vue des souvenirs du cerveau d'une personne en appuyant sur un semi-tapis. Les souvenirs s'affichent à l'aide de projecteurs sur un mur, sois en face, à gauche ou à droite, selon où la main de l'interlocuteur se situe.
-composer ou reprendre la description offerte sur le
-site de l'artiste ou sur le cartel en indiquant bien sa source
+Rhizomatique est une oeuvre interactive ayant pour but simuler une vue des souvenirs du cerveau d'une personne en appuyant sur un semi-tapis. Les souvenirs s'affichent à l'aide de projecteurs sur un mur, sois en face, à gauche ou à droite, selon où la main de l'interlocuteur se situe. Comme indiqué dans la description du site de Rhizomatique, l'oeuvre a pour but de "relier l'humain et le temps" en utilisant la méthode de faire oublier la notion du temps à l'interlocuteur en allant visiter les souvenirs passés d'une personne qu'elle ne connait pas.
+
+source : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 ## Mise en espace
 L'installation se fait dans le grand studio. Elle se fais avec une toile (représentant le cerveau) et une projection sur 3 grand murs (l'affichage les souvenirs). Plus tu pèses longtemps, plus il va jouer longtemps et clairement, plus tu appuies rapidement, plus ils vont disparaître. Avoir le son de la vidéo mémoire avec un son de fond pour représenter l'émotion véhiculé dans la vidéo. une lumière au-devant de la toile attirera les gens, avec des modèles artistiques proejtés et sur la toile. puis dès qu'un interlocteur s'approchera, la lumière s'éteindra. les modèles artistiques partiront petit à petit.
