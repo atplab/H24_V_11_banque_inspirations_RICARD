@@ -1,4 +1,4 @@
-faire comme si c'était sortie personnelle
+1faire comme si c'était sortie personnelle
 
 ## **Rhizomatique**
 Une oeuvre faite à partir de l'exposition Crescentia. Créateurs : Maïka Désy, Laurie Houde, Jolyanne Desjardins, Félix Testa.
@@ -20,8 +20,7 @@ source : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.ht
 L'installation est de type immersive, car elle t'immerse dans les pensées d'une personne inconnu, en jouant avec du son et la vue d'une vidéo de fond qui joue. Elle est aussi interactive, car une fois après avoir interagis avec la toile prévu à cet effet, la vue vidéo change pour des vidéos de souvenirs, en face, à gauche ou à droite, selon où l'interlocuteur a appuyé sur la toile. le son change aussi pour le son de la vidéo qui est en train de jouer, ce qui, tout mis bout à bout, renforce encore plus l'immersion apportée.
 
 ## Fonction du dispositif multimédia
-Le scénario parle de l'histoire d'une personne qui revois des souvenirs d'une personne inconnue. Elle met en valeur le temps qui passe rapidement sans que l'on prenne le temps de s'arrêter et de profiter des souvenirs passés. La diffusion ce fait sur plusieurs murs, Exposés par des projecteurs, avec une toile interactive face au mur de devant et des haut-parleurs qui projètent le son. Il y avait aussi des vitres avec des personnages projetés de temps en temps dessus.
-
+Le scénario parle de l'histoire d'une personne qui revois des souvenirs d'une personne inconnue. Elle met en valeur le temps qui passe rapidement sans que l'on prenne le temps de s'arrêter et de profiter des souvenirs passés. La diffusion ce fait sur plusieurs murs, Exposés par des projecteurs, avec une toile interactive face au mur de devant et des haut-parleurs qui projètent le son. Il y avait aussi un Kinect qui servait à capter les mouvements de l'interlocuteur pour les transférer à l'ordinateur qui s'occupera de quoi transmettre comme données aux projecteurs et aux haut-parleurs.
 
 ## Mise en espace
 L'installation se fait dans le grand studio. Elle se fais avec une toile (représentant le cerveau) et une projection sur 3 grand murs (l'affichage les souvenirs). Plus tu pèses longtemps, plus il va jouer longtemps et clairement, plus tu appuies rapidement, plus ils vont disparaître. Avoir le son de la vidéo mémoire avec un son de fond pour représenter l'émotion véhiculé dans la vidéo. une lumière au-devant de la toile attirera les gens, avec des modèles artistiques proejtés et sur la toile. puis dès qu'un interlocteur s'approchera, la lumière s'éteindra. les modèles artistiques partiront petit à petit.
