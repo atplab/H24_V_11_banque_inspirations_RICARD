@@ -3,7 +3,7 @@
 Ils utilisent beaucoup de kinects pour détecter la position des mains sur une surface, et c'est une technique que je n'avait jamais pensé à utilisé. Elle est très efficace, par exemple pour détecter la position des mains sur une surface, ce qui permet de déplacer des objets virtuellements.
 
 pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
-Pour la technique et les composantes technologiques retenues, il y a 
+Pour la technique et les composantes technologiques retenues, il y a la kinect pour repérer 
 
 
 ## 3 cours du programme incontournables pour créer ces genres de projet
