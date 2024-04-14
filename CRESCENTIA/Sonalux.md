@@ -1,4 +1,4 @@
-## **Sonalux**
+## *Sonalux*
 Créateurs : Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 ## Le lien avec le thème Crescentia
 Le lien avec Crescentia est qu'il évolutif selon les actions posés avec le matériel.
