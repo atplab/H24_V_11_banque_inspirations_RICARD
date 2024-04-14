@@ -1,4 +1,4 @@
-## **Kigo**
+## *Kigo*
 Créateurs : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
 ## le lien de chacun avec le thème Crescentia
 le thème de Crescentia est la croissance, et c'est relié parce que tu dois faire évoluer ton score au fil du temps, au risque de tout perdre et de devoir recommencer de zéro.
