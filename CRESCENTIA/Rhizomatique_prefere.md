@@ -1,5 +1,5 @@
 
-## **Rhizomatique**
+## *Rhizomatique*
 
 Source : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 ![rhizomatique_bannière](media/rhizomatique_banniere.jpg)
