@@ -1,4 +1,4 @@
-## **Effet Papillon**
+## *Effet Papillon*
 Créateurs : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et Jasmine Lapierre.
 ## le lien de chacun avec le thème Crescentia
 Le lien avec Crescentia est que l'environnement évolue comme pour représenter le cycle de la vie sur Terre.
