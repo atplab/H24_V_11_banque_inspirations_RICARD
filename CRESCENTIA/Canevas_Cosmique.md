@@ -1,4 +1,4 @@
-## **Canevas Cosmique**
+## *Canevas Cosmique*
 Créateurs : Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau
 ## Le lien avec le thème Crescentia
 Le thème de Crescentia est la croissance, et c'est relié parce qu'en reliant les planètes, ça fait croître des phénomènes galactiques.
