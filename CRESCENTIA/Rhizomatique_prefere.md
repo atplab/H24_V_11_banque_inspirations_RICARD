@@ -26,32 +26,34 @@ L'installation est de type immersive, car elle t'immerse dans les pensées d'une
 Le scénario parle de l'histoire d'une personne qui revois des souvenirs d'une personne inconnue. Elle met en valeur le temps qui passe rapidement sans que l'on prenne le temps de s'arrêter et de profiter des souvenirs passés. La diffusion ce fait sur plusieurs murs, Exposés par des projecteurs, avec une toile interactive face au mur de devant et des haut-parleurs qui projètent le son. Il y avait aussi un Kinect qui servait à capter les mouvements de l'interlocuteur pour les transférer à l'ordinateur qui s'occupera de quoi transmettre comme données aux projecteurs et aux haut-parleurs.
 
 ## Mise en espace
-L'installation se fait dans le grand studio. Elle se fais avec une toile (représentant le cerveau) et une projection sur 3 grand murs (l'affichage les souvenirs). Plus tu pèses longtemps, plus il va jouer longtemps et clairement, plus tu appuies rapidement, plus ils vont disparaître. Avoir le son de la vidéo mémoire avec un son de fond pour représenter l'émotion véhiculé dans la vidéo. une lumière au-devant de la toile attirera les gens, avec des modèles artistiques proejtés et sur la toile. puis dès qu'un interlocteur s'approchera, la lumière s'éteindra. les modèles artistiques partiront petit à petit.
+L'installation se fait dans le grand studio. Elle se fais avec une toile (représentant le cerveau) et une projection sur trois grand murs (l'affichage les souvenirs). Plus tu pèses longtemps, plus il va jouer longtemps et clairement, plus tu appuies rapidement, plus ils vont disparaître. Avoir le son de la vidéo mémoire avec un son de fond pour représenter l'émotion véhiculé dans la vidéo. une lumière au-devant de la toile attirera les gens, avec des modèles artistiques proejtés et sur la toile. puis dès qu'un interlocteur s'approchera, la lumière s'éteindra. les modèles artistiques partiront petit à petit.
 
 Source : Emmanuel Ricard
 ![demo_Rhizomatique](media/Rhizomatique_demo.jpg)
 
 
 ## Composantes et techniques
-Les composantes et techniques utilisées pour permettre ce type d'installation est la Kinect, qui permet de capter les mouvements émis par l'allocuteur sur une toile montée sur des bouts de bois et de transmettre les données à un ordinateur. Il y a aussi comme nécéssité des projecteurs, qui peuvent projeter l'image sur les 3 murs, et un projecteur en dessous de la toile pour projeter la vidéo sur celle-ci. Il y a aussi besoin de deux haut-parleurs permettant de distribuer le son.
+Les composantes et techniques utilisées pour permettre ce type d'installation est la Kinect, qui permet de capter les mouvements émis par l'allocuteur sur une toile montée sur des bouts de bois et de transmettre les données à un ordinateur. Il y a aussi comme nécéssité des projecteurs, qui peuvent projeter l'image sur les trois murs, et un projecteur en dessous de la toile pour projeter la vidéo sur celle-ci. Il y a aussi besoin de deux haut-parleurs permettant de distribuer le son.
 
 Source : Emmanuel Ricard
 ![demo_Rhizomatique](media/Rhizomatique_interieur.jpg)
 
 ## Éléments nécessaires à la mise en exposition
-L'équipe de Montmorency derrière le projet Crescentia a dû offrir un grand espace composé de 3 murs qui propose 
+L'équipe de Montmorency derrière le projet Crescentia a dû offrir un grand espace composé de trois murs blanc avec des projecteurs et des haut-parleurs accrochés au plafond.
 
 ## Schéma de l'installation
 Source : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
 ![plan_rhizomatique](media/rhizomatique_plantation.drawio.png)
 
-## 3 cours du programme incontournables pour créer ce genre projet
-Œuvres et dispositifs multimédias en exposition, Interactivité ludique et Traitement audiovisuel semblent être des cours incontournables pour la création de cette oeuvre.
-
-## Ordre de préférence
-avant l'expérimentation, je trouve que ce projet est mon 3ème préféré, car il est attirant avec sa façon de fonctionner et de synchroniser les contenus audios, visuels et physiques.
-
 ## Expérience vécue
-Je crois que je vais expérimenter des émotions fortes, car elle va jouer avec les sentiments en nous immersant dans l'expérience.
+L'interacteur doit se positionner devant une toile qui se situe à portée de main, face aux trois murs. Ensuite, il doit déplacer sa main sur la toile pour permettre à l'oeuvre d'afficher des souvenirs selon l'endroit où se situe la main. L'expérience fait vivre de l'émerveillation face aux souvenirs rendant émotifs par son originalité et les souvenirs qu'elle nous fait repenser de notre passée.
+
+
+## Ce qui m'a plu
+J'ai ressenti de la contemplation vis-à-vis de l'oeuvre, car elle a réussi à me faire voyager par diverses émotions au coeur des souvenirs visités grâce à nos mains touchant une toile. Elle m'a beaucoup inspirée, car elle m'a donné des idées comme le fait d'utiliser les souvenirs du passé pour susciter des émotions chez l'interlocuteur.
+
+## Aspects que je referais pas du projet ou ferais autrement
+J'ai trouvé le projet bien qu'original, il manquait de dynamisme pour garder l'interacteur le plus longtemps possible. J'aurais mis une voix qui raconte l'histoire au fil du temps de l'inconnu pour rajouter à l'intimité de l'interlocuteur vis-à-vis de l'inconnu et de l'oeuvre.
+
 
 source d'informations : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
