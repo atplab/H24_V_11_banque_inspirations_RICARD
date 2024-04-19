@@ -3,7 +3,7 @@ Créateurs : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papani
 ## le lien de chacun avec le thème Crescentia
 Le lien avec Crescentia est que l'environnement évolue comme pour représenter le cycle de la vie sur Terre.
 ## l'installation en cours dans les studios
-L'installation est dans le petit studio, avec le matériel interactif placé au centre de la pièce, comme une pompe, un pichet d'eau et, des projecteurs accrochés au plafond, un arbre qui tiens tous les petits ordinateurs et .
+L'installation est dans le petit studio, avec le matériel interactif placé au centre de la pièce, comme une pompe, des projecteurs accrochés au plafond, un arbre qui tiens tous les petits ordinateurs et des murs pour recevoir la projection des projecteur.
 
 source : Emmanuel Ricard
 ![arbre](media/effet_papillon_arbre.jpg)
