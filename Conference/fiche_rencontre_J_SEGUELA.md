@@ -20,6 +20,9 @@ La conférence nous a permis d'en apprendre plus sur les œuvres du studio Antim
 
 
 Sources :
+
 Jade Séguela
+
 https://www.lozano-hemmer.com/
+
 https://www.lozano-hemmer.com/translation_stream.php
