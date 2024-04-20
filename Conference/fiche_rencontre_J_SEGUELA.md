@@ -4,6 +4,12 @@
 Conférence impeccable. La présentatrice appuyait bien ses prpos, avec des images de références et des informations pertinentes qui permettait de nous mettre en situation. Elle m'a permit d'en apprendre d'avantage sur ce Studio créé par un homme remarquable du nom de Rafael Lozano-Hemmer. Tous les obstacles et épreuves qu'ils ont dû surmonté était impressionnant et bien descriptifs.
 
 ## Présentation du fondateur du studio
+Rafael Lozano-Hemmer est d'origine mexicaine et est né en 1967. Il est à l'originede la création du studio en 2023 et possède un B. Sc en chimie physique à l'université de Concordia à Montréal en 1989. Il fait de l'art mélangeant technologie, poésie, politique et la science, tout en étant interactives où chaque interaction émises par l'interlocuteur est importante.
+
+## Qu'est-ce qui a été présenté ?
+lors 
+
+
 Un compte-rendu est d'abord un écrit objectif (donc qui rapporte des faits, des données) qui permet à une personne qui n'aurait pas assisté à l'événement dont il est question de comprendre ce qui a été présenté.
 
 Il s'agira donc, dans un texte de 200-250 mots, de rendre compte de la conférence en partageant les grandes lignes de celles-ci. Vous devrez ordonner votre propos pour que la construction soit logique et reprenne le fil de ce qui a été présenté.
