@@ -15,11 +15,6 @@ lors de la présentation, nous avons pu en appendre d'avantage sur le métier de
 ## Présentation d'oeuvres
 Plusieurs oeuvres ont été présenté lors de la conférence, tel que Au clair de la lune et Flux de Mouvement. Par exemple, pour Flux de mouvement, nous avons pu apprendre qu'elle a dû être fait en à peine 3 mois, imposé par les Émirats Arabes-Unis
 
- Le propos doit être bien structuré (en paragraphes) avec une introduction qui présente l'intervenant.e et le thème de sa conférence. Puis, quelques-unes des grandes idées partagées sont expliquées dans le développement. Enfin, votre conclusion partagera une appréciation de la conférence, appréciation qui sera appuyée d'une justification. Il est important de conserver une attitude ouverte et respectueuse dans cette partie du compte-rendu.
-
- Vous devrez insérer une image d'une oeuvre de votre choix tirée du site web de l'artiste en identifiant bien la source.
-
-Rappel: la qualité de français étant importante, assurez-vous de passer votre texte par Antidote avant de le remettre.
 
 Référence : Le compte-rendu critique - Stratégies d'écriture dans la formation spécifique (voir les pages 5 à 10 pour des stratégies et un exemple)
 Sources :
