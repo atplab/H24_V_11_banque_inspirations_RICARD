@@ -14,16 +14,17 @@ Source : Emmanuel Ricard
 ![explore ensemble ecrans](media/ensemble_ecrans.jpg)
 
 ## Type d'exposition
-L'exposition est permanente et se retrouve à l'intérieur de l'édifice de Pointe-à-Callière.
+L'exposition est permanente et se retrouve à l'intérieur du Centre des sciences à Montréal.
 Source : Emmanuel Ricard
 
 ## Titre de l'oeuvre ou du dispositif
 Intelligence Artificielle
-![crédits](media/Artistes_oeuvre.jpg)
 
 ## Nom de l'artiste ou de la firme
 TKNL - Créateurs d'expérience est la firme qui a développé ce projet.
 Source : Sylvie Francois
+![crédits](media/Artistes_oeuvre.jpg)
+
 ## Année de réalisation
 2024?
 
