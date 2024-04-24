@@ -25,7 +25,7 @@ TKNL - Créateurs d'expérience est la firme qui a développé ce projet.
 
 Source : Sylvie Francois
 
-![crédits](media/Artistes_oeuvre.png)
+![crédits](media/Artistes_oeuvres.png)
 
 ## Année de réalisation
 2024?
