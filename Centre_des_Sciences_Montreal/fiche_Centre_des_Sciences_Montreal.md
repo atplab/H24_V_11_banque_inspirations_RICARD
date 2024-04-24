@@ -7,11 +7,11 @@ Source : https://www.centredessciencesdemontreal.com/exposition-permanente/explo
 
 
 ## Lieu de mise en exposition
-350 place royale Montréal
+2 Rue de la Commune Ouest, Centre des sciences de Montréal.
 
 Source : Emmanuel Ricard
 
-![Bâtisse](media/batisse_devant.jpg)
+![explore ensemble global](media/ensemble_global.jpg)
 
 ## Type d'exposition
 L'exposition est permanente et se retrouve à l'intérieur de l'édifice de Pointe-à-Callière.
