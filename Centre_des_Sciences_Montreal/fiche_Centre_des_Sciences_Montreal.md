@@ -1,7 +1,7 @@
 # Centre des sciences de Montréal
 *date de visite : 10 avril 2024*
 
-Source : Frédérique Ménard Aubin, https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
+Source : [Frédérique Ménard Aubin, https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl](https://www.centredessciencesdemontreal.com/exposition-permanente/explore)
 ![affiche](media/generationsmtl_affiche.jpg)
 
 
