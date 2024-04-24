@@ -19,7 +19,6 @@ Source : Emmanuel Ricard
 
 ## Titre de l'oeuvre ou du dispositif
 Intelligence Artificielle
-Source : https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
 
 ## Nom de l'artiste ou de la firme
 Pointe-à-Callière est la firme qui a développé ce projet.
