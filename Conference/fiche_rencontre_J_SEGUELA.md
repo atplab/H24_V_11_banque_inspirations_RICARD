@@ -1,6 +1,9 @@
 # Studio Antimodular (Rafael Lozano-Hemmer)
 *Présentation par Jade Séguela, registraire*
+
+source : https://www.lozano-hemmer.com/translation_stream.php
 ![affiche](media/flux_de_translation.jpg)
+
 Conférence impeccable. La présentatrice appuyait bien ses propos, avec des images de références et des informations pertinentes qui permettaient de nous mettre en situation. Elle m'a permis d'en apprendre d'avantage sur ce Studio créé par un homme remarquable du nom de Rafael Lozano-Hemmer. Tous les obstacles et épreuves qu'ils ont dû surmonter était impressionnants et bien décrits.
 
 ## Présentation du fondateur du studio
@@ -25,4 +28,4 @@ Jade Séguela
 
 https://www.lozano-hemmer.com/
 
-https://www.lozano-hemmer.com/translation_stream.php
+
