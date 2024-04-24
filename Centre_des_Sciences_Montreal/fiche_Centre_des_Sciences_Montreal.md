@@ -21,8 +21,8 @@ Source : Emmanuel Ricard
 Intelligence Artificielle
 
 ## Nom de l'artiste ou de la firme
-Pointe-à-Callière est la firme qui a développé ce projet.
-Source : https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
+TKNL - Créateurs d'expérience est la firme qui a développé ce projet.
+Source : Sylvie Francois
 ## Année de réalisation
 2024?
 
