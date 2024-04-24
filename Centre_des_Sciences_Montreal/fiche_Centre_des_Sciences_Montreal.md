@@ -2,6 +2,7 @@
 *date de visite : 10 avril 2024*
 
 Source : https://www.centredessciencesdemontreal.com/exposition-permanente/explore
+
 ![affiche](media/explore_exposition_affiche.jpeg)
 
 
