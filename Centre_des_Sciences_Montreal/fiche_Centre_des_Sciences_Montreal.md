@@ -11,7 +11,7 @@ Source : https://www.centredessciencesdemontreal.com/exposition-permanente/explo
 
 Source : Emmanuel Ricard
 
-![explore ensemble global](media/ensemble_global.jpg)
+![explore ensemble ecrans](media/ensemble_global.jpg)
 
 ## Type d'exposition
 L'exposition est permanente et se retrouve à l'intérieur de l'édifice de Pointe-à-Callière.
