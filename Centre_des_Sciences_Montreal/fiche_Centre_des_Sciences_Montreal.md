@@ -22,8 +22,10 @@ Intelligence Artificielle
 
 ## Nom de l'artiste ou de la firme
 TKNL - Créateurs d'expérience est la firme qui a développé ce projet.
+
 Source : Sylvie Francois
-![crédits](media/Artistes_oeuvre.jpg)
+
+![crédits](media/Artistes_oeuvre.png)
 
 ## Année de réalisation
 2024?
