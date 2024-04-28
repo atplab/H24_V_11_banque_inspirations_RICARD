@@ -79,8 +79,8 @@ Je ferais des moments plus courts pour les vidéos de fond à certains moments, 
 
 *Sources :*
 
-Emmanuel Ricard
+*Emmanuel Ricard*
 
-Frédérique Ménard Aubin
+*Frédérique Ménard Aubin*
 
-https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/*
+*https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/*
