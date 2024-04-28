@@ -77,10 +77,10 @@ Beaucoup d'éléments m'ont plus, tel que les sièges étaient disposés plus ha
 Je ferais des moments plus courts pour les vidéos de fond à certains moments, car parfois, il ne se passait pas grand-chose, donc ça peut faire perdre l'attention des interlocuteurs. Si j'avais pu le faire différement, j'aurais laissé des fonds avec des passages moins intéressant sur certains écrans, mais j'aurais aussi mis des sujets plus intéressant pour capter l'attention tout en émerveillant les interlocuteurs.
 
 
-## Sources :
+*Sources :
 
 Emmanuel Ricard
 
 Frédérique Ménard Aubin
 
-https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
+https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/*
