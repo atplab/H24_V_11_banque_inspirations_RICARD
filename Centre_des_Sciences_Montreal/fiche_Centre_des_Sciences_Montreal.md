@@ -81,15 +81,15 @@ Beaucoup d'éléments m'ont plus, tel que le peu d'effort physique et mental est
 J'offrirai plus de possibilité d'effets à utiliser, car nous sommes assez limités par rapport aux nombres d'effets possible à transmettre sur l'écran. De plus, je n'ai pas aimé la couleur utilisée pour les structures, je mettrais des couleurs plus modernes et attirantes, telles que du blanc cassé, du gris perle ou du bleu Klein.
 
 
-## Sources :
+*## Sources :*
 
-Sylvie Francois
+*Sylvie Francois*
 
-Emmanuel Ricard
+*Emmanuel Ricard*
 
-Frédérique Ménard Aubin
+*Frédérique Ménard Aubin*
 
-https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
+*https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/*
 
 
 
