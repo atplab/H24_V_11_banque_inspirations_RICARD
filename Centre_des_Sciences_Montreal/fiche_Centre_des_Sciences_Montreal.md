@@ -39,10 +39,10 @@ Le type d'installation est plutôt contemplative, car l'interlocuteur se mets en
 
 Source : Emmanuel Ricard
 
-![global](media/ensemble_complet.jpg)
+![vue global](media/ensemble_complet.jpg)
 
 - ## Fonction du dispositif multimédia
-Le scénario parle de l'histoire du Québec depuis sa création jusqu'à aujourd'hui. Elle met en valeur tout ce que le Québec a traversé et toutes les créations que cette belle province a apporté. La diffusion ce fait sur plusieurs écrans, séparés de Néons, de projecteurs visant sur le sol pour projeter des éléments et d'écouteurs pour avoir une immersion plus profonde de l'oeuvre. Il y avait aussi des vitres avec des personnages projetés de temps en temps dessus.
+L'exposition sert à montrer ce à quoi le ou les interlocuteur(s) peuvent ressembler en étant une image générée par intelligence artificielle.
 
 Source : Emmanuel Ricard
 
