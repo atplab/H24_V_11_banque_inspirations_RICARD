@@ -15,6 +15,7 @@ Source : Emmanuel Ricard
 
 ## Type d'exposition
 L'exposition est permanente et se retrouve à l'intérieur du Centre des sciences à Montréal.
+
 Source : Emmanuel Ricard
 
 ## Titre de l'oeuvre ou du dispositif
