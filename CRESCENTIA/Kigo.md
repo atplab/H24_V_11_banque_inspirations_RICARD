@@ -20,8 +20,5 @@ source : https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.ht
 ## Ordre de préférence
 Avant l'expérimentation, je trouve que ce projet est mon 1er préféré, car il est attirant par sa façon d'utiliser le matériel, étant simplement de bouger sans rien avoir besoin de manipuler.
 
-Source d'information : https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
-
-## Expérience à ressentir
-Je crois que je vais expérimenter du plaisir à m'amuser à esquiver les obstacles et obtenir le plus haut score.
+*Source d'information : https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html*
 
