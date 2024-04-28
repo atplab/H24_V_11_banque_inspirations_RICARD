@@ -31,8 +31,8 @@ Source : Sylvie Francois
 2019
 
 ## Description de l'oeuvre ou du dispositif
-La disposition montre comment notre image peut être déformée grâce à l'intelligence artificielle
-Source : https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
+La disposition montre comment notre image peut être déformée grâce à l'intelligence artificielle.
+
 
 ## Type d'installation
 Le type d'installation est plutôt contemplative, car l'interlocuteur se mets en face d'un écran pour voir lui et son environnement se déformer devant lui. Elle est aussi un peu interactive, car il y a un écran à la gauche qui est interactif, permettant de modifier le degrée de l'effet que l'intelligence artificielle génère.
@@ -42,11 +42,11 @@ Source : Emmanuel Ricard
 ![vue global](media/ensemble_complet.jpg)
 
 - ## Fonction du dispositif multimédia
-L'exposition sert à montrer ce à quoi le ou les interlocuteur(s) peuvent ressembler en étant une image générée par intelligence artificielle. Elle sert aussi
+L'exposition sert à montrer ce à quoi le ou les interlocuteur(s) peuvent ressembler en étant une image générée par intelligence artificielle. Elle sert aussi à les mettre en action, car l'oeuvre ne fonctionne que s'ils bougent et s'ils interagissent avec l'écran tactile pour modifier le niveau d'effets.
 
 Source : Emmanuel Ricard
 
-![Démonstration_fonctions](media/demonstrations_fonctions.jpg)
+![Démonstration](media/exemple_effet.jpg)
 
 - ## Mise en espace
 La partie visuelle est composée d'un écran de taille moyenne en face, d'une affiche à droite explicative de l'oeuvre, d'un mémo au sol incitant à mettre ses pieds dessus et un écran à gauche pour montrer le degrée d'intelligence artificielle utilisée. Il y a aussi une partie interactive, étant l'écran de gauche, pour définir le degrée d'intelligence artificielle utilisé. Il y a aussi le mouvement de l'interlocuteur, car en bougeant, il modifie ce qui est capté par la caméra au dessus de l'écran, donc modifier ce qui est affiché sur celui-ci.
