@@ -56,4 +56,4 @@ J'ai ressenti de la contemplation vis-à-vis de l'oeuvre, car elle a réussi à 
 J'ai trouvé le projet bien qu'original, il manquait de dynamisme pour garder l'interacteur le plus longtemps possible. J'aurais mis une voix qui raconte l'histoire au fil du temps de l'inconnu pour rajouter à l'intimité de l'interlocuteur vis-à-vis de l'inconnu et de l'oeuvre.
 
 
-source d'informations : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
+*source d'informations : https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html*
