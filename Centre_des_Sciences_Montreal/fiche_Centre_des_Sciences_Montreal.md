@@ -53,7 +53,7 @@ La partie visuelle est composée d'un écran de taille moyenne en face, d'une af
 
 Source : Emmanuel Ricard
 
-![Projecteurs_et_sièges](media/sieges_et_projecteurs.jpg)
+![écran tactile](media/ecran_tactile.jpg)
 
 - ## Composantes et techniques
 Les composantes et les techniques utilisés sont la projection, la lumière, le son et la superposition. Certains projecteurs projetaient l'image sur le sol, ce qui rajoutait à l'immersion, tandis que d'autres projetaient sur des vitres invisibles, ce qui permettait de voir des personnes lorsque l'histoire en avait besoin, et lorsque la vitre n'avait rien d'affiché dessus, de voir ce qui se passe derrière sur les écrans. Aussi, les lumières tels que les néons entre les écrans permettent de rajouter à l'immersion en faisant des effets qui vont avec ce qui est affiché et projeté sur les écrans. Pour finir, le son joue une grande partie dans cette oeuvre, car il y a des voix qui expliques ce qui se passe, à quelle époque nous sommes et il y a des sons avec de la musique pour nous immerser dans l'oeuvre.
