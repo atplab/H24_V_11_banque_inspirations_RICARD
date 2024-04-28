@@ -42,14 +42,14 @@ Source : Emmanuel Ricard
 ![vue global](media/ensemble_complet.jpg)
 
 - ## Fonction du dispositif multimédia
-L'exposition sert à montrer ce à quoi le ou les interlocuteur(s) peuvent ressembler en étant une image générée par intelligence artificielle.
+L'exposition sert à montrer ce à quoi le ou les interlocuteur(s) peuvent ressembler en étant une image générée par intelligence artificielle. Elle sert aussi
 
 Source : Emmanuel Ricard
 
 ![Démonstration_fonctions](media/demonstrations_fonctions.jpg)
 
 - ## Mise en espace
-La partie visuelle prend la largeur d'un grand mur complet et de la moitié des deux murs sur les côtés. Elle prend aussi une partie du plancher. La partie avec les chaises pour que les visiteurs regarde est derrière, avec les écouteurs posés sur des socles entre les sièges. au dessus de cette partie, il y a des projecteurs pour projeter les images sur les vitres et au sol. Sur le mur de droite est située la porte pour rentrer dans la pièce.
+La partie visuelle est composée d'un écran de taille moyenne en face, d'une affiche à droite explicative de l'oeuvre, d'un mémo au sol incitant à mettre ses pieds dessus et un écran à gauche pour montrer le degrée d'intelligence artificielle utilisée. Il y a aussi une partie interactive, étant l'écran de gauche, pour définir le degrée d'intelligence artificielle utilisé. Il y a aussi le mouvement de l'interlocuteur, car en bougeant, il modifie ce qui est capté par la caméra au dessus de l'écran, donc modifier ce qui est affiché sur celui-ci.
 
 Source : Emmanuel Ricard
 
