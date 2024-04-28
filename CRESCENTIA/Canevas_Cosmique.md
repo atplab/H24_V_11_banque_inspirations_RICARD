@@ -21,4 +21,5 @@ Avant l'expérimentation, je trouve que ce projet est mon 5ème préféré, car 
 ## Expérience vécue
 Je crois que je vais expérimenter de la fascination vis-à-vis des explosions émises par les collisions de planètes. 
 
-Source d'informations : https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
+
+*Source d'informations : https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html*
