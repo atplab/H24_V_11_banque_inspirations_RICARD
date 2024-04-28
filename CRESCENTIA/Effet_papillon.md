@@ -14,17 +14,4 @@ source : https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77
 ![schéma](media/structure_effet_papillon.png)   
 
 
-## 3 cours du programme incontournables pour créer ce genre projet
-Œuvres et dispositifs multimédias en exposition, Interactivité ludique et modélisation 3D semblent être des cours incontournables pour la création de cette oeuvre.
-
-    présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
-
-    *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
-
-   ## Ordre de préférence
-Avant l'expérimentation, je trouve que ce projet est mon 4er préféré, car il est attirant par sa façon de faire ressentir à quel point la nature est précieuse, et que chaque geste que l'on fait peut entraîner une réaction en chaîne.
-
-## Expérience à ressentir
-Je crois que je vais expérimenter de la fascination, car le fait de voir que chaque geste posé est le début d'une réaction en chaîne me fascine.
-
-source d'informations : https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
+*source d'informations : https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html*
