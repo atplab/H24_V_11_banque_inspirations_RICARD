@@ -61,7 +61,7 @@ Source : Emmanuel Ricard
 ![écran tactile](media/ecran_tactile.jpg)
 
 - ## Composantes et techniques
-Les composantes et les techniques utilisés sont la projection, la lumière, le son et la superposition. Certains projecteurs projetaient l'image sur le sol, ce qui rajoutait à l'immersion, tandis que d'autres projetaient sur des vitres invisibles, ce qui permettait de voir des personnes lorsque l'histoire en avait besoin, et lorsque la vitre n'avait rien d'affiché dessus, de voir ce qui se passe derrière sur les écrans. Aussi, les lumières tels que les néons entre les écrans permettent de rajouter à l'immersion en faisant des effets qui vont avec ce qui est affiché et projeté sur les écrans. Pour finir, le son joue une grande partie dans cette oeuvre, car il y a des voix qui expliques ce qui se passe, à quelle époque nous sommes et il y a des sons avec de la musique pour nous immerser dans l'oeuvre.
+Les composantes et les techniques utilisés sont les écrans, un ordinateur, une caméra, une affiche et du texte collé au sol. Les écrans servent à afficher le contenu, la caméra à capter les mouvements émis par son champ de vision (dont les interlocuteurs) et l'ordinateur à transformer l'information reçue par la caméra et la transmettre à l'écran. L'affiche sert à transmettre de l'information à propos de l'oeuvre et le message au sol à inciter les interlocuteurs à essayer l'oeuvre.
 
 Source : Emmanuel Ricard
 
