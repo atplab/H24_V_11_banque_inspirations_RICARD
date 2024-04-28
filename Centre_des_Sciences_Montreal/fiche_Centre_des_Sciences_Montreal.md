@@ -65,24 +65,20 @@ Les composantes et les techniques utilisés sont les écrans, un ordinateur, une
 
 Source : Emmanuel Ricard
 
-![Exemples_techniques](media/techniques.jpg)
+![Exemples_techniques](media/sol_positionnement.jpg)
 
 - ## Éléments nécessaires à la mise en exposition
-Pour permettre l'exposition de cette oeuvre, il faut avoir les équipements suivant : des projecteurs pour projeter les images, des lumières pour projeter de la lumière, des néons pour faire de la lumière, des sièges pour s'asseoir, des écouteurs pour entendre le son, de la vitre et des écrans pour recevoir la projection et un très grand espace divisé en plusieurs partie (une plus haute, et une plus basse).
+Pour permettre l'exposition de cette oeuvre, il faut avoir les équipements suivant :un écran de taille moyenne pour projeter l'image, une caméra, un ordinateur, un plus petit écran tactile, une pastille avec de l'écriture dessus, une affiche, des fils et de l'espace.
 
 
 - ## Expérience vécue
-L'oeuvre ne demande aucun effort physique, elle demande seulement à s'asseoir sur un siège, mettre les écouteurs et regarder l'exposition pour expérimenter un voyage au fil des années et revivre les événements marquant du Québec, plus précisément de Montréal. Elle procure de l'émerveillement et de la fierté vis-à-vis tout ce que Montréal a pu faire et ce qu'il est devenu aujourd'hui.
+L'oeuvre ne demande que peu d'effort physique, car il ne faut que se déplacer dans un petit espace et toucher un écran. Elle procure de l'émerveillement face à la contemplation de se voir sous une toute autre forme que ce que l'on a l'habitude de ce voir.
 
-Source : Emmanuel Ricard
-
-![émotions](media/emotions.mp4)
-
-- ## ❤️ Ce qui vous a plu, vous a donné des idées
+- ## ❤️ Ce qui m'a plu
 Beaucoup d'éléments m'ont plus, tel que les sièges étaient disposés plus haut que la partie du sol ayant de la projection, ce qui fait un effet de projection plus agréable à regarder. Quelque chose qui m'a donné des idées est le fait qu'à la place de mettre les personnages au même stade de projection que les décors, Ils ont mis des vitres où les projecteurs projettent la vidéo des personnages sans fond, ce qui créé un sentiment de réel et de rapprochement entre l'interlocuteur et l'exposition. Ça m'a beaucoup plu, car ça l'a rajouté à mon immersion et à la complicité que je ressentais avec les personnages, tout en permettant de bien admirer le paysage sans avoir de fonds encombrants derrière les personnages. 
 
 
-- ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
+- ## 🤔 Aspect queje ne retiendrais pas ou ferais autrement
 Je ferais des moments plus courts pour les vidéos de fond à certain moments, car parfois Il ne se passait pas grand chose donc ça peut faire perdre l'attention des interlocuteurs. Si j'avais pu le faire autrement, j'aurais laissé des fonds avec des passages moins intéressant sur certains écrans, mais j'aurais aussi mis des sujets plus intéressant avec pour capter l'attention tout en émerveillant les interlocuteurs.
 
 
