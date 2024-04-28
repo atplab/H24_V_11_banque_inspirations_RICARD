@@ -75,11 +75,10 @@ Pour permettre l'exposition de cette oeuvre, il faut avoir les équipements suiv
 L'oeuvre ne demande que peu d'effort physique, car il ne faut que se déplacer dans un petit espace et toucher un écran. Elle procure de l'émerveillement face à la contemplation de se voir sous une toute autre forme que ce que l'on a l'habitude de ce voir.
 
 ## ❤️ Ce qui m'a plu
-Beaucoup d'éléments m'ont plus, tel que les sièges étaient disposés plus haut que la partie du sol ayant de la projection, ce qui fait un effet de projection plus agréable à regarder. Quelque chose qui m'a donné des idées est le fait qu'à la place de mettre les personnages au même stade de projection que les décors, Ils ont mis des vitres où les projecteurs projettent la vidéo des personnages sans fond, ce qui créé un sentiment de réel et de rapprochement entre l'interlocuteur et l'exposition. Ça m'a beaucoup plu, car ça l'a rajouté à mon immersion et à la complicité que je ressentais avec les personnages, tout en permettant de bien admirer le paysage sans avoir de fonds encombrants derrière les personnages. 
+Beaucoup d'éléments m'ont plus, tel que le peu d'effort physique et mental est demandé pour contempler cette oeuvre interactive. Elle demande à l'interlocuteur d'interagir avec sans lui demander d'efforts, pour être accessible à tous. Tout le monde peut aller admirer cette oeuvre et elle est intuitive à contrôler. L'idée est intéressante et m'inspire pour de futurs projets.
 
-
-## 🤔 Aspect queje ne retiendrais pas ou ferais autrement
-Je ferais des moments plus courts pour les vidéos de fond à certain moments, car parfois Il ne se passait pas grand chose donc ça peut faire perdre l'attention des interlocuteurs. Si j'avais pu le faire autrement, j'aurais laissé des fonds avec des passages moins intéressant sur certains écrans, mais j'aurais aussi mis des sujets plus intéressant avec pour capter l'attention tout en émerveillant les interlocuteurs.
+## 🤔 Aspects que je ne retiendrais pas ou ferais autrement
+J'offrirais plus de possibilité d'effets à utiliser. car nous sommes assez limité par rapport aux nombres d'effets possible à transmettre sur l'écran. De plus, je n'ai pas aimé la couleur utilisé pour les structures, je mettrais des couleurs plus modernes et attirantes, tel que du blanc cassé, du terracotta ou du bleu Klein.
 
 
 Sources :
