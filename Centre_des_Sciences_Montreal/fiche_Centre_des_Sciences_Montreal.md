@@ -21,6 +21,8 @@ Source : Emmanuel Ricard
 ## Titre de l'oeuvre ou du dispositif
 Intelligence Artificielle
 
+Source : Sylvie Francois
+
 ## Nom de l'artiste ou de la firme
 TKNL - Créateurs d'expérience est la firme qui a développé ce projet.
 
