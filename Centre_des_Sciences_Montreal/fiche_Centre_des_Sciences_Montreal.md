@@ -33,6 +33,8 @@ Source : Sylvie Francois
 ## Année de réalisation
 2019
 
+source : https://www.centredessciencesdemontreal.com/exposition-permanente/explore
+
 ## Description de l'oeuvre ou du dispositif
 La disposition montre comment notre image peut être déformée grâce à l'intelligence artificielle.
 
