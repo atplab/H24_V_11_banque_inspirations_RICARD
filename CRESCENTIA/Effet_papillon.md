@@ -11,6 +11,7 @@ source : Emmanuel Ricard
 
 ## Schéma
 source : https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f123d528beb9cf9ef03/docs/preproduction/medias/stl_structure.stl
+
 ![schéma](media/structure_effet_papillon.png)   
 
 
