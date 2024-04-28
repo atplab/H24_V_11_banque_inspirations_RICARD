@@ -87,9 +87,7 @@ J'offrirai plus de possibilité d'effets à utiliser, car nous sommes assez limi
 
 *Emmanuel Ricard*
 
-*Frédérique Ménard Aubin*
-
-*https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/*
+*https://www.centredessciencesdemontreal.com/exposition-permanente/explore*
 
 
 
