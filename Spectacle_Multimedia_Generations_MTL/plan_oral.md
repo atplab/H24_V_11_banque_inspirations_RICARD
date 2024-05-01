@@ -4,6 +4,7 @@ Spectacle multimédia Générations MTL
 visité le 23 février 2024
 endroit : 350 place royale, Montréal, Pointe-à-Callière, musée archéologie
 
+
 développement
 
 salle fermée, billeterie avant d'y aller, arriver aux 30 minutes. durée de l'oeuvre : 18mins
@@ -13,6 +14,7 @@ histoire : histoire du Québec de sa création jusqu'à aujourd'hui.
 projecteurs, écrans séparés par néons, projection au sol
 vitres invisibles pour projeter image
 écouteurs = son réglable sur la chaise.
+
 
 conclusion
 
